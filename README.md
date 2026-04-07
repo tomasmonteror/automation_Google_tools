@@ -40,7 +40,7 @@ Crea un formulario de Google. Los títulos de las preguntas **deben ser exactame
 
 Vincula este formulario a una Hoja de Cálculo.
 
-
+---
 ---
 
 # 📅 Caso de uso 2: Automatización de Tutorías: Google Forms + Google Calendar
@@ -100,6 +100,8 @@ Para que esto ocurra de forma automática al recibir una solicitud:
     Control de Solapamiento: Si dos padres eligen exactamente el mismo martes a las 13:00, el primero que envíe el formulario se quedará la cita. El código detectará que el hueco ya está ocupado para el segundo y le enviará un correo amable pidiendo que escoja otro día/hora.
     Duración: Las tutorías están programadas por defecto para durar 30 minutos (Línea 18: var duracionMinutos = 30;). Puedes modificar ese número a tu gusto.
 
+---
+---
 
 # 🎓 Caso de uso 3: Sistema de Certificación e Informes Automatizados con Google Apps Script
 
